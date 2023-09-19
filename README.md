@@ -2,7 +2,7 @@
 This Word Wiz App is made with the help of React Js and Bootstrap.
 <br>
 It is a responsive app optimised for both desktop and mobile phones. <br>
-It is a single page application with a feature of light and dark mode.
+It is a single page application with an amazing light and dark mode switch.
 <br> <br>
 Home Page in Light Mode: 
 <br> <br>
